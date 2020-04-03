@@ -67,5 +67,12 @@
   "directories": {
     "example": "example",
     "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tngraphql/console.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tngraphql/console/issues"
   }
 }

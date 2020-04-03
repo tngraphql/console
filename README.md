@@ -24,7 +24,7 @@
 </div>
 
 [npm-image]: https://img.shields.io/npm/v/@tngraphql/console.svg?style=for-the-badge&logo=npm
-[npm-url]: https://www.npmjs.com/package/@tngraphql/console"npm"
+[npm-url]: https://www.npmjs.com/package/@tngraphql/console
 
 [typescript-image]: https://img.shields.io/badge/Typescript-294E80.svg?style=for-the-badge&logo=typescript
 
