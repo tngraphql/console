@@ -1,6 +1,6 @@
 {
   "name": "@tngraphql/console",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Commandline apps framework tngraphql",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
